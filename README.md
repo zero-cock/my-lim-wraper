@@ -1,3 +1,4 @@
+```json
 {
   "name": "my-llm-wrapper",
   "version": "1.0.0",
